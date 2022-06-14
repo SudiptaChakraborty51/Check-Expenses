@@ -40,6 +40,10 @@
   .expense-date {
     color: white;
   }
+
+  .heading {
+    text-align: center;
+  }
   
   @media (min-width: 580px) {
     .expense-item__description {
