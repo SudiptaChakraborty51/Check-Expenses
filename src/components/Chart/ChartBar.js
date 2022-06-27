@@ -10,12 +10,13 @@ function ChartBar(props) {
     return(
         <div className="chart-bar">
             <div className="chart-bar__inner">
-                <div 
+                <div
                     className="chart-bar__fill"
-                    style={{ height: barFillHeight }}>
+                    style={{ height: barFillHeight }}> 
                 </div>
             </div>
             <div className="chart-bar__label">{props.label}</div>
         </div>
     )
 }
+export default ChartBar;

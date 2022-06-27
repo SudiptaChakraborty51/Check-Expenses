@@ -12,19 +12,19 @@ const DUMMY_EXPENSES = [
   { id: 'e2', 
     title: 'Food', 
     amount: 342, 
-    date: new Date(2022, 6, 16) 
+    date: new Date(2022, 8, 16) 
   },
   {
     id: 'e3',
     title: 'Shampoo',
     amount: 215,
-    date: new Date(2022, 6, 17),
+    date: new Date(2022, 3, 17),
   },
   {
     id: 'e4',
     title: 'shoe',
     amount: 851,
-    date: new Date(2022, 6, 18),
+    date: new Date(2023, 6, 18),
   },
 ];
 
